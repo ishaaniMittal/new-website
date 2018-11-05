@@ -14315,7 +14315,7 @@ project-edit-nav.is-visible li:nth-child(4) {
       font-family: "Source Sans Pro", sans-serif;
       font-style: italic; }
   .project_editor .p_section--header-main .main-grad {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+   /* background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));*/
     width: 100%;
     max-width: 100%;
     height: 100px;
@@ -15815,7 +15815,7 @@ project-edit-nav.is-visible li:nth-child(4) {
     .p_section--header-main .branding:hover {
       text-decoration: none; }
   .p_section--header-main .main-grad {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+   /* background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));*/
     width: 100%;
     max-width: 100%;
     height: 100px;
