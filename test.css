@@ -19838,3 +19838,51 @@ video
   vertical-align: middle;
   border-style: none;
 }
+
+
+@bg: #2d2d37;
+@primary: #fd6b21;
+body {
+  background: @bg;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.arrow {
+  text-align: center;
+  margin: 40% 0;
+}
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+
+.zoom {
+  transition: transform .2s;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+  cursor: pointer;
+}
