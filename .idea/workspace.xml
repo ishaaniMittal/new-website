@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39663b28-fe64-48db-b75c-21cb7d4d02af" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/infograin/screen_exp/how_it_works_1.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Sketch stuff/Project Artifacts.sketch" afterPath="$PROJECT_DIR$/Sketch stuff/Project Artifacts.sketch" />
-      <change beforePath="$PROJECT_DIR$/assets/images/infograin/info_arch.png" afterPath="$PROJECT_DIR$/assets/images/infograin/info_arch.png" />
-      <change beforePath="$PROJECT_DIR$/infograin.html" afterPath="$PROJECT_DIR$/infograin.html" />
-      <change beforePath="$PROJECT_DIR$/smart-mirror.html" afterPath="$PROJECT_DIR$/smart-mirror.html" />
-      <change beforePath="$PROJECT_DIR$/test.css" afterPath="$PROJECT_DIR$/test.css" />
+      <change beforePath="$PROJECT_DIR$/Sketch stuff/about/me.psd" afterPath="$PROJECT_DIR$/Sketch stuff/about/me.psd" />
+      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change beforePath="$PROJECT_DIR$/assets/images/about/landing-page.jpg" afterPath="$PROJECT_DIR$/assets/images/about/landing-page.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,11 +38,10 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="132" column="31" lean-forward="false" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
+            <state relative-caret-position="209">
+              <caret line="136" column="63" lean-forward="false" selection-start-line="136" selection-start-column="63" selection-end-line="136" selection-end-column="63" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1541461727000" expanded="false" signature="5775:5807" ph="..." />
               </folding>
             </state>
           </provider>
@@ -347,12 +343,12 @@
       <workItem from="1541179839457" duration="17614000" />
       <workItem from="1541353984181" duration="7188000" />
       <workItem from="1541435232016" duration="735000" />
-      <workItem from="1541444297987" duration="1681000" />
+      <workItem from="1541444297987" duration="2792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54172000" />
+    <option name="totallyTimeSpent" value="55283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -829,11 +825,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="132" column="31" lean-forward="false" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
+        <state relative-caret-position="209">
+          <caret line="136" column="63" lean-forward="false" selection-start-line="136" selection-start-column="63" selection-end-line="136" selection-end-column="63" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1541461727000" expanded="false" signature="5775:5807" ph="..." />
           </folding>
         </state>
       </provider>

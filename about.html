@@ -23,6 +23,17 @@
 
     <link rel="stylesheet" href="test.css">
 
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+    <script>
+        var typed3 = new Typed('#stuff', {
+            strings: ['My strings are: <i>strings</i> with', 'My strings are: <strong>HTML</strong>', 'My strings are: Chars &times; &copy;'],
+            typeSpeed: 0,
+            backSpeed: 0,
+            smartBackspace: true, // this is a default
+            loop: true
+        });
+    </script>
+
    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69935771-26"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -61,7 +72,7 @@
             a.appendChild(r);
         })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
     </script>-->
-    <title>Projects | Infograin</title>
+    <title>Home | Ishaani</title>
     <!--<meta name="description"		content="Tell the story of your design. The ultimate UX portfolio template." />
     <meta property="og:url"			content="https://www.uxfol.io/project/5ad5e42c7d444800044700b8" />
     <meta property="og:type"		content="article" />
@@ -123,13 +134,13 @@
 
                     <div class="image-container image-container--fluid">
                         <div class="main-grad"></div>
-                        <img src="assets/images/about/me.png">
+                        <img src="assets/images/about/me_bw.png">
                     </div>
 
                     <div class="text-wrapper">
                         <div class="text-container txt-on-img">
                             <!--<h1>Tell the story of your design</h1>-->
-                            <p>
+                            <p id="stuff">
                             <h2  style="color: #000000;padding-right:400px;"> Product Designer</h2>
                             <!--<h2 style="color: #000;padding-right:400px;">How can we help students with dietary restrictions find meals at restaurants?</h2>
                            --> </p>
