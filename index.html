@@ -1,60 +1,754 @@
 <!doctype html>
-<html lang="en">
+<html>
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Sans+Pro:400,700"
+          rel="stylesheet">
+    <meta charset="UTF-8">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <meta name="csrf-token" content="101d5010-b496-400f-9014-3327d66bf11a">
+    <meta name="google-analytics-id" content="UA-69935771-26">
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
-          integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href="https://fonts.googleapis.com/css?family=Vesper+Libre" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/favicon/manifest.json">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#2b5797">
+    <link rel="shortcut icon" href="/favicon/favicon.ico">
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-    <title>Ishaani's Portfolio</title>
+    <link rel="stylesheet" href="test.css">
 
-    <link rel="stylesheet" href="styles.css">
+
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69935771-26"></script>
+     <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+
+         gtag('config', 'UA-69935771-26');
+     </script>-->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1477171995922999');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=1477171995922999&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Hotjar Tracking Code for https://www.uxfol.io/ -->
+    <!-- <script>
+         (function(h,o,t,j,a,r){
+             h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+             h._hjSettings={hjid:841363,hjsv:6};
+             a=o.getElementsByTagName('head')[0];
+             r=o.createElement('script');r.async=1;
+             r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+             a.appendChild(r);
+         })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+     </script>-->
+    <title>Home | Ishaani</title>
+    <!--<meta name="description"		content="Tell the story of your design. The ultimate UX portfolio template." />
+    <meta property="og:url"			content="https://www.uxfol.io/project/5ad5e42c7d444800044700b8" />
+    <meta property="og:type"		content="article" />
+    <meta property="og:title"		content="Tell the story of your design" />
+    <meta property="og:description" content="The ultimate UX portfolio template" />
+    <meta property="og:image" 		content="" />-->
+    <style>
+        .p_section--header-main .text-container {
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .p_section--header-main .text-container h1 {
+            color: #ffffff;
+            text-align: center;
+        }
+
+        .p_section--header-main .text-container h2 {
+            color: #ffffff;
+            text-align: center;
+        }
+
+        @media (min-width: 768px) {
+            .p_section--header-main .text-container h1 {
+                font-size: 5.5rem;
+            }
+
+            .p_section--header-main .text-container h2 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
 </head>
 <body>
-<header>
-    <p class="container">
-        <a href="http://ishaanimittal.com"><span class="name">Ishaani Mittal</span></a><span
-            class="job">User Experience Designer</span>
-    </p>
-</header>
+<main>
+    <div class="project project_with_theme SourceSansPro_SourceSansPro">
 
-<div class="container">
-    <div class="intro-banner">
-        <div class="intro">
-            <h1>I design and develop
-                <br> <a href="#projects">great user experiences ( <i class="fas fa-mobile"></i> <i
-                        class="fas fa-laptop"></i> <img src="assets/vr-glasses.svg" style="height:40px"> ).</a>
-                <br> And <a href="#play">play</a> and sometimes <a href="#write">write.</a></h1>
+
+        <section class="p_section p_section--header-main header-main">
+
+            <div class="container">
+                <div class="row">
+                    <div class="project-owner">
+                        <div class="owner" onclick="navigateBack()">
+                            <!-- <div class="owner-picture">
+                                 <img height="50" src="https://storage.googleapis.com/uxfolio/5ad5e0437d444800044700b6/et52b320dixaYwZH.jpg"/>
+                             </div>-->
+                            <div class="owner-info">
+                                <div class="owner-name">Ishaani Mittal</div>
+                                <!-- <div class="owner-company">Portfolio Product</div>-->
+                            </div>
+                        </div>
+                        <!-- <a href="https://www.uxfol.io/" class="branding">
+                             Made with <div class="uxfolio-logo"></div>
+                         </a>-->
+                    </div>
+                </div>
+            </div>
+
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="image-container image-container--fluid">
+                        <div class="main-grad"></div>
+                        <img src="assets/images/about/me_bw.png">
+                    </div>
+
+                    <div class="text-wrapper">
+                        <div class="text-container txt-on-img">
+                            <!--<h1>Tell the story of your design</h1>-->
+                            <p>
+                            <h2 style="color: #000000;padding-right:400px;">I design and develop great user
+                                experiences. </h2><br>
+                            <!--<div id="app"></div>-->
+
+                            <!--<h2 style="color: #000;padding-right:400px;">How can we help students with dietary restrictions find meals at restaurants?</h2>
+                               --> </p>
+
+                        </div>
+
+                        <div class="arrow bounce">
+                            <a class="fa fa-arrow-down fa-2x" href="#worked"></a>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <br><br><br>
+
+
+        </section>
+
+        <section id = "worked" style="background: rgb(211,211,211,0.1)" class="p_section p_section--text text">
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="col-sm-12">
+                        <div class="text-container">
+                            <div class="text" style="text-align: center"><h3 >Work Associations</h3>
+
+                                <!--<p>Everyone has a different approach to UX, try to think about your own, the point is to
+                                    show a step-by-step process. The best way to showcase your working method is using
+                                    the Process Section.</p>--></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="p_section p_section--horizontal-split">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-12 img-col">
+                            <div class="image-container display-mode--default">
+                                <div class="image-box">
+                                    <div class="image">
+                                        <img src="assets/images/about/worked.png">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="p_section p_section--text text">
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="col-sm-12">
+                        <div class="text-container">
+                            <div class="text" style="text-align: center"><h3 >Projects</h3>
+
+                                <div id="myBtnContainer">
+                                    <button class="btn btn-filter active" onclick="filterSelection('all')"> Selected Projects</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('design')"> UX Design</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('research')">Research</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('visual_design')">Visual Design</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('mobile')">Mobile</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('vr')">Virtual Reality</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('web')">Web</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('sports')">Sports</button>
+                                    <button class="btn btn-filter" onclick="filterSelection('education')">Education</button>
+                                </div>
+
+                                <!--<p>Everyone has a different approach to UX, try to think about your own, the point is to
+                                    show a step-by-step process. The best way to showcase your working method is using
+                                    the Process Section.</p>--></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="p_section p_section&#45;&#45;horizontal-split column design research mobile">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-6 img-col">
+                            <div class="image-container display-mode&#45;&#45;default">
+                                <a href="infograin.html">
+                                <div class="image-box">
+                                    <div class="image zoom">
+                                        <img src="assets/images/about/infograin_tile.svg">
+                                    </div>
+                                </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 txt-col">
+                            <div class="text-container">
+                                <div class="text"><p>
+                                    UX Research, UX Design
+                                    <br><br>
+                                    <h3>Infograin</h3>
+                                    A mobile app that shows a list of restaurants compatible with users dietary
+                                    restrictions sorted (by default) on a customized score for each restaurant.
+
+                                    <br> <br>
+                                    </p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="p_section p_section&#45;&#45;horizontal-split column design research web" >
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-6 img-col">
+                            <div class="image-container display-mode&#45;&#45;default">
+                                <a href="adept.html">
+                                    <div class="image-box">
+                                        <div class="image zoom">
+                                            <img src="assets/images/about/adept_tile.svg">
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 txt-col">
+                            <div class="text-container">
+                                <div class="text"><p>
+                                    UX Design, Development
+                                    <br><br>
+                                    <h3>ADEPT</h3>
+                                    A web based role playing game for professors to help them better understand the
+                                    promotion and tenure process.
+
+                                    <br> <br>
+                                    </p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="p_section p_section&#45;&#45;horizontal-split column design research vr education">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-6 img-col">
+                            <div class="image-container display-mode&#45;&#45;default">
+                                <a href="mozilla.html">
+                                    <div class="image-box">
+                                        <div class="image zoom">
+                                            <img src="assets/images/about/mozilla_banner.svg">
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 txt-col">
+                            <div class="text-container">
+                                <div class="text"><p>
+                                    UX Design
+                                    <br><br>
+                                    <h3>VR Classrooms</h3>
+                                    How can webVR be used to create an more engaging online community of students
+                                    enrolled in the OMSCS program at Georgia Tech?
+                                    <br> <br>
+                                    </p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="p_section p_section&#45;&#45;horizontal-split column visual_design">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-6 img-col">
+                            <div class="image-container display-mode&#45;&#45;default">
+                                <a href="visual_design.html">
+                                    <div class="image-box">
+                                        <div class="image zoom">
+                                            <img src="assets/images/about/vd_banner.svg">
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 txt-col">
+                            <div class="text-container">
+                                <div class="text"><p>
+                                    Visual Design
+                                    <br><br>
+                                    <h3>Visual Design Musings</h3>
+                                    Working iteratively to improve on my visual design skills.
+                                    <br> <br>
+                                    </p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="p_section p_section&#45;&#45;horizontal-split column sports vr">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-6 img-col">
+                            <div class="image-container display-mode&#45;&#45;default">
+                                <a href="visual_design.html">
+                                    <div class="image-box">
+                                        <div class="image zoom">
+                                            <img src="assets/images/about/livelike_banner.svg">
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 txt-col">
+                            <div class="text-container">
+                                <div class="text"><p>
+                                    UX Design
+                                    <br><br>
+                                    <h3>LiveLike Summer Internship</h3>
+                                    Established a User Centered Designing process in the organization and created a
+                                    flexible and robust design skeleton (VR and Mobile) adaptable to various sports.
+                                    <br> <br>
+                                    </p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <section id = "about_me" style="background: rgb(211,211,211,0.1)" class="p_section p_section--text text">
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="col-sm-12">
+                        <div class="text-container">
+                            <div class="text" style="text-align: center"><h3 >About me</h3>
+
+                                <!--<p>Everyone has a different approach to UX, try to think about your own, the point is to
+                                    show a step-by-step process. The best way to showcase your working method is using
+                                    the Process Section.</p>--></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="p_section p_section--horizontal-split">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-6 img-col">
+                            <div class="image-container display-mode--default">
+                                <div class="image-box">
+                                    <div class="image">
+                                        <img src="assets/images/about/worked.png">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 txt-col">
+                            <div class="text-container">
+                                <div class="text"><p>
+                                    Hi! I am Ishaani, a UX Designer & Researcher, who is currently a second year Masters
+                                    student in Human-Computer Interaction. I am interested in exploring the
+                                    applications of design in traditional (web and mobile) as well as non-traditional
+                                    interfaces and technologies (AR/VR/Ubiquitous Tech/AI/ML). I care about sports,
+                                    education, and health care. View my resume <a href="">here. </a>
+                                    <br><br>Human beings are complex and naturally, I am too.
+                                    If you are
+                                    interested in knowing more about me than my
+                                    job title, then <a href="about_me.html">click here.</a>
+                                    </p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</main>
+<footer class="project-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="project-owner">
+                    <div class="owner" onclick="navigateBack()">
+                        <div class="owner-picture">
+                            <img height="50"
+                                 src="https://storage.googleapis.com/uxfolio/5ad5e0437d444800044700b6/et52b320dixaYwZH.jpg"/>
+                        </div>
+                        <div class="owner-info">
+                            <div class="owner-name">UXfolio Official</div>
+                            <div class="owner-company">Portfolio Product</div>
+                        </div>
+                    </div>
+                    <a onclick="showContactPage(true);" class="btn btn--primary">Contact Me</a>
+                    <div class="footer-share-links">
+                        Share on
+                        <a href="https://www.facebook.com/sharer.php?u=https://www.uxfol.io/project/5ad5e42c7d444800044700b8"
+                           target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/share?url=https://www.uxfol.io/project/5ad5e42c7d444800044700b8"
+                           target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="contact">
-            <i class="fab fa-linkedin fa-2x"></i>
-            <i class="fab fa-medium fa-2x"></i>
-            <i class="fab fa-facebook-square fa-2x"></i>
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <a href="https://www.uxfol.io/" class="footer-branding">
+                    Made with
+                    <div class="uxfolio-logo"></div>
+                </a>
+            </div>
         </div>
     </div>
-</div>
-
-<footer>
-
 </footer>
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-        crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
-        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>
+<div id="contact-page" class="user-contact-page">
+    <div class="close-contact-page" onClick="showContactPage(false);"></div>
+    <div class="user-contact-form">
+        <form name="contact_form" action="#" onsubmit="return sendEmail();">
+            <p>Dear UXfolio Official,</p>
+            <input type="hidden" name="toEmail" value="info@uxfol.io"/>
+            <textarea name="message" type="text" required placeholder="Write your message here.."></textarea>
+            <p>Best,</p>
+            <input name="senderName" type="text" required placeholder="Your name"/>
+            <input name="senderEmail" type="text" required placeholder="Your email"/>
+            <button type="submit">Send email</button>
+        </form>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+
+    function navigateBack() {
+        let fullPath = window.location.pathname.split('/');
+        var location = "";
+        if (fullPath[2].length > 8) {
+            location = "/portfolio/" + fullPath[2].slice(0, 8);
+        } else {
+            location = '/' + "info";
+        }
+        window.location.href = location;
+    }
+
+    function processStickyHeader() {
+        // sticky header
+        var startPoint = document.getElementsByClassName('sticky-header'), // parent element of the sticky header
+            processes = document.getElementsByClassName('process-steps'); // parent elements height
+
+        for (var i = 0; i < startPoint.length; i++) {
+            var offsetY = startPoint[i].offsetTop, // distance from top
+                target = startPoint[i].querySelector('.sticky-steps'),
+                stepsHeight = processes[i].offsetHeight, // height of the steps
+                steps = processes[i].getElementsByClassName('process-step'),
+                endPoint = offsetY + startPoint[i].offsetHeight + stepsHeight - target.offsetHeight;
+            if (window.scrollY >= offsetY + 100 && window.scrollY <= endPoint) {
+                target.classList.remove('sticked-hidden');
+                target.classList.add('sticked');
+                for (var k = 0; k < steps.length; k++) {
+                    var currentStickyStep = target.getElementsByClassName('sticky-step')[k],
+                        stepOffsetY = steps[k].offsetTop;
+                    (window.scrollY >= stepOffsetY - 100) ? currentStickyStep.classList.add('checked') : currentStickyStep.classList.remove('checked');
+                }
+            } else if (window.scrollY >= endPoint - target.offsetHeight) {
+                target.classList.add('sticked-hidden');
+            } else {
+                target.classList.remove('sticked')
+            }
+        }
+    }
+
+    document.addEventListener('scroll', processStickyHeader);
+
+    document.addEventListener("DOMContentLoaded", () = > {
+        scrollTo('.sroll-to-step', 300, 60
+    )
+    ;
+    })
+    ;
+
+    function scrollTo(selector, duration, fps) {
+        let anchors = [].slice.call(document.querySelectorAll(selector));
+        for (let anchor of anchors) {
+            anchor.addEventListener('click', scrollAnimation);
+        }
+
+        function scrollAnimation(e) {
+            e.preventDefault();
+            let target = document.querySelector(this.getAttribute('href'));
+            let element = target, targetOffset = 0;
+            while (element && element != document.body) {
+                targetOffset += element.offsetTop;
+                element = element.offsetParent;
+            }
+            let currentOffset = window.pageYOffset || document.body.scrollTop;
+            let difference = Math.abs(currentOffset - targetOffset);
+            if (!difference) return;
+            let frames = parseInt(duration / 1000 * fps);
+            let tick = duration / frames;
+            let perFrame = difference / frames;
+            let direction = (targetOffset > currentOffset) ? 1 : -1;
+            let timer = setInterval(() = > {
+                currentOffset = window.pageYOffset || document.body.scrollTop;
+            difference = Math.abs(currentOffset - targetOffset + 70);
+            if (difference < perFrame) {
+                scrollBy(0, difference * direction);
+                clearInterval(timer);
+                return;
+            }
+            scrollBy(0, perFrame * direction);
+            if (window.pageYOffset + window.innerHeight === document.body.scrollHeight) clearInterval(timer);
+        },
+            tick
+        )
+            ;
+        }
+    }
+
+    var galleries = document.getElementsByClassName("carousel-gallery");
+    if (galleries.length > 0) {
+        Array.prototype.forEach.call(galleries, function (elem) {
+            let imageNumber = 4;
+            if (elem.classList.contains('desktop-mockup')) {
+                imageNumber = 2;
+            }
+            new Glide(elem, {
+                type: 'carousel',
+                startAt: 0,
+                perView: imageNumber,
+                focusAt: 'center',
+                gap: 30
+            }).mount();
+        });
+    }
+
+    //contact page
+
+    function sendEmail() {
+        var form = document.forms["contact_form"];
+        setTimeout(function () {
+            createStatusMessage();
+        }, 250);
+        axios.defaults.headers.common['X-CSRF-TOKEN'] = document.querySelector('meta[name="csrf-token"]').getAttribute('content');
+        axios.post('/portfolio/contact', {
+            toEmail: form["toEmail"].value,
+            message: "Dear UXfolio Official,\n\n" + form["message"].value + "\n\n" + form["senderName"].value + "\n" + form["senderEmail"].value,
+            senderName: form["senderName"].value,
+            senderEmail: form["senderEmail"].value
+        })
+            .then(function (response) {
+                messageSent(true);
+                form.reset();
+            })
+            .catch(function (error) {
+                //TODO: Notify user about error
+                messageSent(false);
+                form.reset();
+            });
+
+        return false;
+    }
+
+    function showContactPage(show) {
+        document.querySelector(".user-contact-page").classList.toggle('visible');
+        document.querySelector("body").classList.toggle('contact-page-open');
+    }
+
+    function createStatusMessage() {
+        var messageContainer = document.createElement("span"),
+            sendingMessage = document.createTextNode("Sending...");
+        messageContainer.classList.add("message");
+        messageContainer.appendChild(sendingMessage);
+        document.querySelector(".user-contact-form").classList.toggle('message-sent');
+        document.querySelector(".user-contact-page").appendChild(messageContainer);
+    }
+
+    function messageSent(success) {
+        var message = success ? "Message sent." : "Something went wrong. Try again.";
+        document.querySelector(".message").innerHTML = message;
+        setTimeout(function () {
+            var messageContainer = document.querySelector(".message");
+            showContactPage(false);
+            document.querySelector(".user-contact-form").classList.toggle('message-sent');
+            document.querySelector(".user-contact-page").removeChild(messageContainer);
+        }, 2000);
+    }
+
+</script>
+<script src="https://unpkg.com/typewriter-effect/dist/core.js"></script>
+<script>
+    var app = document.getElementById('app');
+
+    var typewriter = new Typewriter(app, {
+        loop: true,
+        cursor: ''
+    });
+
+    typewriter.typeString('<h2 style="color: #000000;padding-right:400px;">I care about <b>sports.</b></h2>')
+        .pauseFor(500)
+        .deleteChars(7)
+        .typeString('<h2 style="color: #000000;padding-right:400px;"><b>education.</b></h2>')
+        .pauseFor(500)
+        .deleteChars(10)
+        .typeString('<h2 style="color: #000000;padding-right:400px;"><b>healthcare.</b></h2>')
+        .pauseFor(500)
+        .start();
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        // Add smooth scrolling to all links
+        $("a").on('click', function(event) {
+
+            // Make sure this.hash has a value before overriding default behavior
+            if (this.hash !== "") {
+                // Prevent default anchor click behavior
+                event.preventDefault();
+
+                // Store hash
+                var hash = this.hash;
+
+                // Using jQuery's animate() method to add smooth page scroll
+                // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+                $('html, body').animate({
+                    scrollTop: $(hash).offset().top
+                }, 800, function(){
+
+                    // Add hash (#) to URL when done scrolling (default click behavior)
+                    window.location.hash = hash;
+                });
+            } // End if
+        });
+    });
+</script>
+
+<script>
+    filterSelection("all");
+
+    function filterSelection(c) {
+        var x, i;
+        x = document.getElementsByClassName("column");
+        console.log(x);
+        if (c == "all") c = "";
+        for (i = 0; i < x.length; i++) {
+            w3RemoveClass(x[i], "show");
+            if (x[i].className.indexOf(c) > -1) {
+                w3AddClass(x[i], "show");
+            }
+        }
+    }
+
+    function w3AddClass(element, name) {
+        var i, arr1, arr2;
+        arr1 = element.className.split(" ");
+        arr2 = name.split(" ");
+        for (i = 0; i < arr2.length; i++) {
+            if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+        }
+    }
+
+    function w3RemoveClass(element, name) {
+        var i, arr1, arr2;
+        arr1 = element.className.split(" ");
+        arr2 = name.split(" ");
+        for (i = 0; i < arr2.length; i++) {
+            while (arr1.indexOf(arr2[i]) > -1) {
+                arr1.splice(arr1.indexOf(arr2[i]), 1);
+            }
+        }
+        element.className = arr1.join(" ");
+    }
+
+
+    // Add active class to the current button (highlight it)
+    var btnContainer = document.getElementById("myBtnContainer");
+    var btns = btnContainer.getElementsByClassName("btn");
+    for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function(){
+            var current = document.getElementsByClassName("active");
+            current[0].className = current[0].className.replace(" active", "");
+            this.className += " active";
+        });
+    }
+</script>
+
 </body>
 </html>
