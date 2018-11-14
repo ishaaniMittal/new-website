@@ -3,43 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="39663b28-fe64-48db-b75c-21cb7d4d02af" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/Baseline.sketch" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/Infograin User flow.overflow" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/Infograin screens.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/Infograin-user flow.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/Project Artifacts.sketch" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/about/adept_banner.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/about/hand_infograin.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/about/me.psd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/about/me_badminton.psd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/adept/Question View Copy.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/adept/adept_banner.psd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/gluten-free.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/infograin/infograin.pie" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/infograin/mockup.sketch" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/livelike/Logo_LiveLike_Green.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/livelike/livelike-banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/portfolio.sketch" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Filter view.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/List View.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Map View.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Menu with all menu items for appetizers.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Menu with all menu items for appetizers2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Menu with appetizers.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Menu with appetizers2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Menu with one appetizers and burgers - unexpanded.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Menu with one appetizers and burgers.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/One dietary restriction selected.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Project Artifacts.protoio" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Review - unexpanded.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/Review.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/no restriction selected.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/screens/one restriction selected copy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/smart-mirror/alarm-clock.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/smart-mirror/dance moves.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/smart-mirror/tap-gesture.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Sketch stuff/smart-mirror/wireframe.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/about_me.html" afterPath="$PROJECT_DIR$/about_me.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -128,7 +91,7 @@
       <file leaf-file-name="about_me.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_me.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="-349">
               <caret line="338" column="18" lean-forward="true" selection-start-line="338" selection-start-column="18" selection-end-line="338" selection-end-column="18" />
               <folding>
                 <marker date="1542159794000" expanded="true" signature="24168:24203" ph="..." />
@@ -331,16 +294,15 @@
       <workItem from="1542042728272" duration="106000" />
       <workItem from="1542053159241" duration="417000" />
       <workItem from="1542127854081" duration="1139000" />
-      <workItem from="1542146904905" duration="3913000" />
+      <workItem from="1542146904905" duration="4001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82553000" />
+    <option name="totallyTimeSpent" value="82641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -349,7 +311,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -731,7 +693,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_me.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="-349">
           <caret line="338" column="18" lean-forward="true" selection-start-line="338" selection-start-column="18" selection-end-line="338" selection-end-column="18" />
           <folding>
             <marker date="1542159794000" expanded="true" signature="24168:24203" ph="..." />
