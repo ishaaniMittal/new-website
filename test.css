@@ -15774,7 +15774,7 @@ project-edit-nav.is-visible li:nth-child(4) {
     cursor: pointer; }
     .p_section--header-main .owner .owner-info {
       float: left;
-      color: #fff; }
+      color: #333; }
     .p_section--header-main .owner .owner-picture {
       width: 30px;
       height: 30px;
@@ -19931,3 +19931,11 @@ a {
   animation: fadeIn 1s;
 }
 
+.navigation-project {
+  color: #333;
+  text-align: center
+}
+
+.navigation-project:hover {
+  color: #778390;
+}
