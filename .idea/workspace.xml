@@ -91,12 +91,12 @@
       <file leaf-file-name="about_me.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_me.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-349">
-              <caret line="338" column="18" lean-forward="true" selection-start-line="338" selection-start-column="18" selection-end-line="338" selection-end-column="18" />
+            <state relative-caret-position="53">
+              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
               <folding>
-                <marker date="1542159794000" expanded="true" signature="24168:24203" ph="..." />
-                <marker date="1542159794000" expanded="true" signature="24319:24354" ph="..." />
-                <marker date="1542159794000" expanded="true" signature="24461:24496" ph="..." />
+                <marker date="1542159932000" expanded="true" signature="23768:23803" ph="..." />
+                <marker date="1542159932000" expanded="true" signature="23919:23954" ph="..." />
+                <marker date="1542159932000" expanded="true" signature="24061:24096" ph="..." />
               </folding>
             </state>
           </provider>
@@ -294,12 +294,12 @@
       <workItem from="1542042728272" duration="106000" />
       <workItem from="1542053159241" duration="417000" />
       <workItem from="1542127854081" duration="1139000" />
-      <workItem from="1542146904905" duration="4001000" />
+      <workItem from="1542146904905" duration="4083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82641000" />
+    <option name="totallyTimeSpent" value="82723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -693,12 +693,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_me.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-349">
-          <caret line="338" column="18" lean-forward="true" selection-start-line="338" selection-start-column="18" selection-end-line="338" selection-end-column="18" />
+        <state relative-caret-position="53">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
           <folding>
-            <marker date="1542159794000" expanded="true" signature="24168:24203" ph="..." />
-            <marker date="1542159794000" expanded="true" signature="24319:24354" ph="..." />
-            <marker date="1542159794000" expanded="true" signature="24461:24496" ph="..." />
+            <marker date="1542159932000" expanded="true" signature="23768:23803" ph="..." />
+            <marker date="1542159932000" expanded="true" signature="23919:23954" ph="..." />
+            <marker date="1542159932000" expanded="true" signature="24061:24096" ph="..." />
           </folding>
         </state>
       </provider>
