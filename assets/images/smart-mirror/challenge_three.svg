@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="962px" height="962px" viewBox="0 0 962 962" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M605.5,250.531257 L605.5,489.401227 L741.5,497.469458 L741.5,258.783026 L605.5,250.531257 Z" id="Rectangle-2" stroke="#979797" fill-rule="nonzero"></path>
+        <circle id="Oval-4" fill="#D8D8D8" fill-rule="nonzero" cx="490" cy="389" r="15"></circle>
+        <path id="Line-15" d="M662,386.5 L653,382 L653,391 L662,386.5 Z M505.5,387 L653.5,387 L654,387 L654,386 L653.5,386 L505.5,386 L505,386 L505,387 L505.5,387 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-15" d="M644.441972,312.766203 L634.382309,312.996797 L638.590649,320.95229 L644.441972,312.766203 Z M506.233797,386.441972 L637.191744,317.167116 L637.633716,316.933319 L637.166123,316.049375 L636.724151,316.283172 L505.766203,385.558028 L505.324231,385.791825 L505.791825,386.675769 L506.233797,386.441972 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-15" d="M612.340472,271.633832 L602.916467,275.160607 L609.507489,281.289101 L612.340472,271.633832 Z M506.366168,386.340472 L606.94099,278.175097 L607.281462,277.80893 L606.549126,277.127986 L606.208654,277.494154 L505.633832,385.659528 L505.29336,386.025696 L506.025696,386.70664 L506.366168,386.340472 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-15" d="M626.385687,486.318191 L622.30705,477.119565 L616.579604,484.061925 L626.385687,486.318191 Z M505.681809,387.385687 L619.559802,481.335031 L619.945488,481.653222 L620.581871,480.881849 L620.196185,480.563658 L506.318191,386.614313 L505.932505,386.296122 L505.296122,387.067495 L505.681809,387.385687 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-15" d="M650.462671,446.189567 L643.840692,438.613328 L640.428493,446.941407 L650.462671,446.189567 Z M505.810433,387.462671 L642.470974,443.455531 L642.933645,443.645098 L643.312778,442.719756 L642.850107,442.530189 L506.189567,386.537329 L505.726896,386.347762 L505.347762,387.273104 L505.810433,387.462671 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="User" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#000000">
+            <tspan x="442" y="362">User</tspan>
+        </text>
+        <path id="Line-16" d="M611,565.5 L602,561 L602,570 L611,565.5 Z M535.5,566 L602.5,566 L603,566 L603,565 L602.5,565 L535.5,565 L535,565 L535,566 L535.5,566 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="User’s-Hand" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#000000">
+            <tspan x="626" y="570">User’s Hand</tspan>
+        </text>
+        <text id="As-the-angle-the-han" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#000000">
+            <tspan x="478" y="649">As the angle the hand makes with </tspan>
+            <tspan x="478" y="682">the mirror increases, the area </tspan>
+            <tspan x="478" y="715">reachable by the user decreases </tspan>
+            <tspan x="478" y="748">and becomes inaccesible. </tspan>
+        </text>
+        <rect id="Rectangle-5" stroke="#979797" fill-rule="nonzero" x="117.5" y="208.5" width="236" height="416"></rect>
+        <path d="M119,340.708224 C157.524407,320.236075 196.691074,310 236.5,310 C276.308926,310 315.475593,321.928352 354,345.785057 L354,479.079014 C314.833333,501.026338 275.666667,512 236.5,512 C197.333333,512 158.166667,501.026338 119,479.079014 L119,340.708224 Z" id="Path-19" fill="#73D69B" fill-rule="nonzero"></path>
+        <text id="Natural" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#FFFFFF">
+            <tspan x="155" y="470">Natural</tspan>
+        </text>
+        <path d="M118,356 L118,288.161491 C156.430369,267.387164 195.763702,257 236,257 C276.236298,257 315.569631,267.387164 354,288.161491 L354,356 C314.666667,326.918828 275.333333,312.378243 236,312.378243 C196.666667,312.378243 157.333333,326.918828 118,356 Z" id="Path-20" fill="#F5D98E" fill-rule="nonzero"></path>
+        <path d="M117,590 L117,505.715792 C155.593209,479.905264 195.093209,467 235.5,467 C275.906791,467 315.406791,479.905264 354,505.715792 L354,590 C314.5,560.048879 275,545.073318 235.5,545.073318 C196,545.073318 156.5,560.048879 117,590 Z" id="Path-20" fill="#F5D98E" fill-rule="nonzero" transform="translate(235.500000, 528.500000) scale(1, -1) translate(-235.500000, -528.500000) "></path>
+        <path d="M117,288 L117,209 L354,209 L354,288 C314.5,266.533559 275,255.800339 235.5,255.800339 C196,255.800339 156.5,266.533559 117,288 Z" id="Path-21" fill="#F69679" fill-rule="nonzero"></path>
+        <path d="M117,625 L117,546 L354,546 L354,625 C314.5,603.533559 275,592.800339 235.5,592.800339 C196,592.800339 156.5,603.533559 117,625 Z" id="Path-21" fill="#F69679" fill-rule="nonzero" transform="translate(235.500000, 585.500000) scale(1, -1) translate(-235.500000, -585.500000) "></path>
+        <text id="Stretching" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#FFFFFF">
+            <tspan x="155" y="551">Stretching</tspan>
+        </text>
+        <text id="Hard" font-family="Avenir-Medium, Avenir" font-size="24" font-weight="400" fill="#FFFFFF">
+            <tspan x="132" y="609">Hard</tspan>
+        </text>
+        <text id="Mirror" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="674" y="292">Mirror</tspan>
+        </text>
+    </g>
+</svg>
