@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39663b28-fe64-48db-b75c-21cb7d4d02af" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/goodminton/badminton.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/goodminton.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Archive.zip" afterPath="$PROJECT_DIR$/Archive.zip" />
-      <change beforePath="$PROJECT_DIR$/assets/images/smart-mirror/user_flow.png" afterPath="$PROJECT_DIR$/assets/images/smart-mirror/user_flow.png" />
+      <change beforePath="$PROJECT_DIR$/Sketch stuff/Infograin User flow.overflow" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/adept.html" afterPath="$PROJECT_DIR$/adept.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/infograin.html" afterPath="$PROJECT_DIR$/infograin.html" />
+      <change beforePath="$PROJECT_DIR$/livelike.html" afterPath="$PROJECT_DIR$/livelike.html" />
       <change beforePath="$PROJECT_DIR$/smart-mirror.html" afterPath="$PROJECT_DIR$/smart-mirror.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,53 +24,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="infograin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infograin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20315">
+              <caret line="1195" column="131" lean-forward="false" selection-start-line="1195" selection-start-column="131" selection-end-line="1195" selection-end-column="131" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goodminton.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goodminton.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="1097" column="58" lean-forward="false" selection-start-line="1097" selection-start-column="58" selection-end-line="1097" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#27134#29026#0" expanded="false" />
+                <element signature="n#div#4;n#section#0;n#div#2;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#section#0;n#div#2;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1545756819406" expanded="false" signature="14414:15593" ph="..." />
+                <marker date="1545756819406" expanded="false" signature="16761:17680" ph="..." />
+                <marker date="1545756819406" expanded="false" signature="18866:19802" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adept.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adept.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="1037" column="60" lean-forward="false" selection-start-line="1037" selection-start-column="60" selection-end-line="1037" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="207" column="140" lean-forward="false" selection-start-line="207" selection-start-column="140" selection-end-line="207" selection-end-column="140" />
+              <folding>
+                <element signature="n#div#4;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1545756912622" expanded="true" signature="34102:34137" ph="..." />
+                <marker date="1545756912622" expanded="true" signature="34253:34288" ph="..." />
+                <marker date="1545756912622" expanded="true" signature="34395:34430" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="smart-mirror.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/smart-mirror.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="287" column="92" lean-forward="false" selection-start-line="287" selection-start-column="92" selection-end-line="287" selection-end-column="92" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="352">
+              <caret line="1554" column="56" lean-forward="false" selection-start-line="1554" selection-start-column="56" selection-end-line="1554" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="livelike.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/livelike.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="261" column="90" lean-forward="false" selection-start-line="261" selection-start-column="90" selection-end-line="261" selection-end-column="90" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#6;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#7;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1544994566043" expanded="true" signature="32368:32403" ph="..." />
-                <marker date="1544994566043" expanded="true" signature="32519:32554" ph="..." />
-                <marker date="1544994566043" expanded="true" signature="32661:32696" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="infograin.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infograin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="1195" column="131" lean-forward="false" selection-start-line="1195" selection-start-column="131" selection-end-line="1195" selection-end-column="131" />
+            <state relative-caret-position="430">
+              <caret line="481" column="51" lean-forward="false" selection-start-line="481" selection-start-column="51" selection-end-line="481" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -85,10 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Projects</find>
-      <find>heritag</find>
-      <find>filterSelection</find>
-      <find>0.2</find>
       <find>overview</find>
       <find>me</find>
       <find>document.addeve</find>
@@ -114,7 +134,11 @@
       <find>reflections</find>
       <find>challenge 3</find>
       <find>Home</find>
+      <find>resume</find>
       <find>take pic</find>
+      <find>adept</find>
+      <find>quote</find>
+      <find>smart mi</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -137,14 +161,15 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test.css" />
-        <option value="$PROJECT_DIR$/livelike.html" />
         <option value="$PROJECT_DIR$/mozilla.html" />
         <option value="$PROJECT_DIR$/visual_design.html" />
         <option value="$PROJECT_DIR$/about_me.html" />
-        <option value="$PROJECT_DIR$/adept.html" />
-        <option value="$PROJECT_DIR$/smart-mirror.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/infograin.html" />
+        <option value="$PROJECT_DIR$/smart-mirror.html" />
+        <option value="$PROJECT_DIR$/livelike.html" />
+        <option value="$PROJECT_DIR$/goodminton.html" />
+        <option value="$PROJECT_DIR$/adept.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -187,6 +212,24 @@
               <item name="12-Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="12-Portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="12-Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="12-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="12-Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="12-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="12-Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="12-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="goodminton" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -205,15 +248,16 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/Sketch stuff" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/goodminton" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/images/infograin/screen_exp" />
       <recent name="$PROJECT_DIR$/assets/images/infograin" />
       <recent name="$PROJECT_DIR$/assets" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/Sketch stuff" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,12 +313,13 @@
       <workItem from="1543086628251" duration="268000" />
       <workItem from="1543246307019" duration="251000" />
       <workItem from="1543467875534" duration="90000" />
-      <workItem from="1544986827548" duration="3956000" />
+      <workItem from="1544986827548" duration="10316000" />
+      <workItem from="1545755944658" duration="1248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102506000" />
+    <option name="totallyTimeSpent" value="110114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -284,7 +329,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -310,20 +355,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/adept.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14331">
-          <caret line="843" column="60" lean-forward="true" selection-start-line="843" selection-start-column="60" selection-end-line="843" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infograin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8296">
-          <caret line="488" column="64" lean-forward="false" selection-start-line="488" selection-start-column="60" selection-end-line="488" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_old.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -594,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/livelike.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1188">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mozilla.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1166">
@@ -615,56 +639,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/infograin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20315">
+          <caret line="1195" column="131" lean-forward="false" selection-start-line="1195" selection-start-column="131" selection-end-line="1195" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/goodminton/badminton.jpg" />
+    <entry file="file://$PROJECT_DIR$/smart-mirror.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="1554" column="56" lean-forward="false" selection-start-line="1554" selection-start-column="56" selection-end-line="1554" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/livelike.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="481" column="51" lean-forward="false" selection-start-line="481" selection-start-column="51" selection-end-line="481" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodminton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="1097" column="58" lean-forward="false" selection-start-line="1097" selection-start-column="58" selection-end-line="1097" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#27134#29026#0" expanded="false" />
+            <element signature="n#div#4;n#section#0;n#div#2;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#0;n#div#2;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1545756819406" expanded="false" signature="14414:15593" ph="..." />
+            <marker date="1545756819406" expanded="false" signature="16761:17680" ph="..." />
+            <marker date="1545756819406" expanded="false" signature="18866:19802" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/adept.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="546">
+          <caret line="1037" column="60" lean-forward="false" selection-start-line="1037" selection-start-column="60" selection-end-line="1037" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="261" column="90" lean-forward="false" selection-start-line="261" selection-start-column="90" selection-end-line="261" selection-end-column="90" />
+        <state relative-caret-position="442">
+          <caret line="207" column="140" lean-forward="false" selection-start-line="207" selection-start-column="140" selection-end-line="207" selection-end-column="140" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#6;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#7;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544994566043" expanded="true" signature="32368:32403" ph="..." />
-            <marker date="1544994566043" expanded="true" signature="32519:32554" ph="..." />
-            <marker date="1544994566043" expanded="true" signature="32661:32696" ph="..." />
+            <element signature="n#div#4;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1545756912622" expanded="true" signature="34102:34137" ph="..." />
+            <marker date="1545756912622" expanded="true" signature="34253:34288" ph="..." />
+            <marker date="1545756912622" expanded="true" signature="34395:34430" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smart-mirror.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="287" column="92" lean-forward="false" selection-start-line="287" selection-start-column="92" selection-end-line="287" selection-end-column="92" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#section#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infograin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="1195" column="131" lean-forward="false" selection-start-line="1195" selection-start-column="131" selection-end-line="1195" selection-end-column="131" />
-          <folding />
         </state>
       </provider>
     </entry>

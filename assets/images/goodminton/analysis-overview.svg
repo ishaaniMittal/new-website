@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1206px" height="497px" viewBox="0 0 1206 497" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>analysis-overview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="analysis-overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(74.000000, 56.000000)" fill="#000000" font-family="Avenir-Book, Avenir" font-weight="normal">
+            <g id="Group-2">
+                <text id="12" font-size="46">
+                    <tspan x="98.424" y="46">12 </tspan>
+                </text>
+                <text id="footwork-parameters" font-size="18">
+                    <tspan x="41.196" y="86">footwork parameters</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(412.000000, 0.000000)">
+                <text id="3" font-size="46">
+                    <tspan x="111.212" y="46">3 </tspan>
+                </text>
+                <text id="feedback-erruption-p" font-size="18">
+                    <tspan x="20.685" y="86">feedback erruption points</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(810.000000, 0.000000)">
+                <text id="5" font-size="46">
+                    <tspan x="111.212" y="46">5 </tspan>
+                </text>
+                <text id="feedback-methods" font-size="18">
+                    <tspan x="49.647" y="86">feedback methods</tspan>
+                </text>
+            </g>
+        </g>
+        <path d="M84.5,230.5 L1130,230.5" id="Line-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+        <g id="Group" transform="translate(56.000000, 275.000000)" fill="#000000" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal">
+            <text id="Player-recruitment-w">
+                <tspan x="0" y="18">Player recruitment which effects classification of players is very </tspan>
+                <tspan x="0" y="43">subjective but is broadly based on the following</tspan>
+                <tspan x="0" y="68">- years playing badminton</tspan>
+                <tspan x="0" y="93">- previous coaching experience</tspan>
+            </text>
+            <text id="Training-regime-is-s">
+                <tspan x="594" y="53">Training regime is subjective and there isn’t a right/wrong way </tspan>
+                <tspan x="594" y="78">for beginner and intermediate players</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
