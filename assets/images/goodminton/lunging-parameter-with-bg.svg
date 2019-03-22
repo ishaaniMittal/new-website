@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="118px" viewBox="0 0 283 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Lunging</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Lunging" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="283" height="118"></rect>
+        <g id="Group" transform="translate(22.000000, 36.000000)">
+            <path d="M7.5,48.5 L225.5,48.5" id="Line-8" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M16.5,0.5 L17.25,31.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M70.2763158,48.5 L16.7236842,31.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <text id="B1" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0.674639276" y="35">B1</tspan>
+            </text>
+            <path d="M56.5,0.5 L56.5,31.5" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+            <path d="M106.050076,47.5 L56.5,31.5" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+            <text id="B2" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="37.9496773" y="35">B2</tspan>
+            </text>
+            <path d="M96.5,0.5 L96.5,31.5" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+            <path d="M153.5,48 L96.5,31.5" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+            <text id="B3" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="76.7247154" y="35">B3</tspan>
+            </text>
+            <path d="M174,12.8305001 L173.5,47.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M240.5,22.6610002 L174.5,47.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <text id="A" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="169" y="61">A</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

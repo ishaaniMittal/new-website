@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1097px" height="314px" viewBox="0 0 1097 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Feet Direction</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Feet-Direction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1097" height="314"></rect>
+        <g id="Court" transform="translate(130.000000, 104.000000)">
+            <g id="Group">
+                <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                    <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                    <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                    <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                    <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                    <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                </g>
+                <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="41.775" y="10">NET</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Player" transform="translate(188.000000, 161.000000)" fill="#000000" fill-rule="nonzero">
+            <circle id="Oval" cx="1.5" cy="1.5" r="1.5"></circle>
+        </g>
+        <path d="M189.5,163.5 L189.5,174.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M190.5,162.5 L203.5,162.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M190.5,174.5 L203.5,163.5" id="Line-2" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+        <text id="A" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="206.57" y="165">A</tspan>
+        </text>
+        <text id="B" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="188.85" y="179">B</tspan>
+        </text>
+        <rect id="Rectangle-2" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="363" height="307"></rect>
+        <text id="Front-Court" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="131.04" y="30">Front Court</tspan>
+        </text>
+        <text id="S" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="223.22" y="147">S</tspan>
+        </text>
+        <g id="Group" transform="translate(363.000000, 0.000000)">
+            <g id="Court" transform="translate(129.000000, 104.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="A" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                <tspan x="208.07" y="192">A</tspan>
+            </text>
+            <text id="B" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                <tspan x="178.35" y="192">B</tspan>
+            </text>
+            <g id="Player" transform="translate(196.000000, 174.000000)" fill="#000000" fill-rule="nonzero">
+                <circle id="Oval" cx="1.5" cy="1.5" r="1.5"></circle>
+            </g>
+            <path d="M197.5,175.5 L188.5,185.5" id="Line-3" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M197.5,175.5 L205.5,185.5" id="Line-3" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <text id="S" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                <tspan x="230.22" y="186">S</tspan>
+            </text>
+            <circle id="Oval-2" fill="#FF0000" fill-rule="nonzero" cx="226" cy="185" r="2"></circle>
+            <path d="M205.5,185.5 L188.5,185.5" id="Line-4" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+            <rect id="Rectangle-2" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="363" height="307"></rect>
+            <text id="Mid-Court" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="137.14" y="30">Mid Court</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(885.000000, 10.000000)">
+            <g id="Court" transform="translate(0.000000, 94.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="S" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                <tspan x="88.22" y="217">S</tspan>
+            </text>
+            <circle id="Oval-2" fill="#FF0000" fill-rule="nonzero" cx="84" cy="216" r="2"></circle>
+            <text id="Back-Court" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="5.42" y="20">Back Court</tspan>
+            </text>
+            <path d="M59.5,190.5 L76.5,190.5" id="Line-15" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M76.5,203.5 L76.5,190.5" id="Line-15" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M59.5,190.5 L76.5,203.5" id="Line-5" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+            <text id="B" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                <tspan x="52.35" y="192">B</tspan>
+            </text>
+            <text id="A" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                <tspan x="79.07" y="204">A</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-2" stroke="#979797" fill-rule="nonzero" x="726.5" y="0.5" width="363" height="307"></rect>
+        <circle id="Oval-2" fill="#FF0000" fill-rule="nonzero" cx="220" cy="149" r="5"></circle>
+    </g>
+</svg>

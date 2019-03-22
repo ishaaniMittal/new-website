@@ -184,7 +184,8 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none;
+  max-width: 100%;}
 
 svg:not(:root) {
   overflow: hidden; }
@@ -10579,11 +10580,11 @@ input[type=range]:focus::-ms-fill-upper {
     padding: 0; }
     .ask-review-modal .modal-header .btn-close {
       z-index: 1; }
-  .ask-review-modal .ask-review-illustration {
+ /* .ask-review-modal .ask-review-illustration {
     width: 180px;
     height: 110px;
     margin: 0 auto;
-    background: url(/dist/images/review.svg) center center no-repeat; }
+    background: url(/dist/images/review.svg) center center no-repeat; }*/
   .ask-review-modal h3 {
     font-family: "Source Sans Pro", sans-serif;
     font-size: 22px;
@@ -13109,13 +13110,13 @@ select {
   font-weight: 400;
   line-height: 1.2; }
 
-.empty-collection .empty-illustration {
+/*.empty-collection .empty-illustration {
   background: url(/dist/images/empty-collection.png) center center no-repeat;
   background-size: contain;
   width: 410px;
   height: 406px;
   max-width: 100%;
-  margin: 20px auto; }
+  margin: 20px auto; }*/
 
 .empty-collection h2 {
   font-size: 1.4rem;
@@ -16418,7 +16419,7 @@ project-edit-nav.is-visible li:nth-child(4) {
           float: none; }
         .p_section--process .sticky-header .sticky-steps .sticky-step label {
           display: block;
-          font-size: 1.5rem;
+          font-size: 1rem;
           font-family: "Source Sans Pro", sans-serif;
           font-weight: 700;
           line-height: 1;
@@ -19938,4 +19939,9 @@ a {
 
 .navigation-project:hover {
   color: #778390;
+}
+
+.goat-video {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  max-width:100%;
 }

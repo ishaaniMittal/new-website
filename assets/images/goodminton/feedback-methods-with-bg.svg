@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1095px" height="413px" viewBox="0 0 1095 413" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1095" height="413"></rect>
+        <g id="Group" transform="translate(458.000000, 46.000000)">
+            <g id="Group-4">
+                <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+                <text id="methods-used-to-give" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="31.108" y="21">methods used to </tspan>
+                    <tspan x="40.04" y="40">give feedback</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle-3" stroke="#979797" fill-rule="nonzero" x="12.5" y="15.5" width="1068" height="390"></rect>
+        <g id="Group-3" transform="translate(252.000000, 126.000000)">
+            <g id="Group-2">
+                <g id="Group" transform="translate(46.000000, 0.000000)">
+                    <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+                    <text id="visual" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="66.759" y="27">visual</tspan>
+                    </text>
+                    <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="20.5" y="70.5" width="166" height="49"></rect>
+                    <text id="showing-videos-of-ot" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="47.601" y="91">showing videos of </tspan>
+                        <tspan x="63.309" y="110">other players</tspan>
+                    </text>
+                    <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="20.5" y="140.5" width="166" height="49"></rect>
+                    <text id="showing-videos-of-th" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="47.601" y="161">showing videos of </tspan>
+                        <tspan x="69.126" y="180">themselves</tspan>
+                    </text>
+                    <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="20.5" y="210.5" width="166" height="49"></rect>
+                    <text id="show-how-to-do-corre" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="54.083" y="231">show how to do </tspan>
+                        <tspan x="46.964" y="250">correct movement</tspan>
+                    </text>
+                    <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="320.5" y="0.5" width="166" height="49"></rect>
+                    <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="340.5" y="68.5" width="166" height="49"></rect>
+                    <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="340.5" y="138.5" width="166" height="49"></rect>
+                    <text id="telling-advantages-o" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="356.043" y="90">telling advantages of</tspan>
+                        <tspan x="349.834" y="109">using the right method</tspan>
+                    </text>
+                    <text id="oral" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                        <tspan x="392.212" y="27">oral</tspan>
+                    </text>
+                </g>
+                <polyline id="Path-2" stroke="#979797" fill-rule="nonzero" points="46.9321125 24 0 24 0 92 67 92"></polyline>
+                <polyline id="Path-3" stroke="#979797" fill-rule="nonzero" points="0 91 0 164.319757 0 237 66 237"></polyline>
+                <path d="M0.5,163.5 L66.5,163.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                <polyline id="Path-2" stroke="#979797" fill-rule="nonzero" points="366.932112 24 320 24 320 92 387 92"></polyline>
+                <polyline id="Path-3" stroke="#979797" fill-rule="nonzero" points="320 91 320 164 320 163.681638"></polyline>
+            </g>
+            <path d="M320.5,163.5 L386.5,163.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <text id="Telling-players-abou" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="404.827" y="159">Telling players about </tspan>
+                <tspan x="391.597" y="178">their incremental success</tspan>
+            </text>
+        </g>
+        <polyline id="Path-4" stroke="#979797" fill-rule="nonzero" points="538 94 538 111.366697 383 111.366697 383 125"></polyline>
+        <polyline id="Path-5" stroke="#979797" fill-rule="nonzero" points="539 110 706 110 706 124"></polyline>
+    </g>
+</svg>

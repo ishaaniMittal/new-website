@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1125px" height="533px" viewBox="0 0 1125 533" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>How do coaches provide feedback?</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="32" y="113" width="321" height="360"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="321" height="360" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="382" y="113" width="321" height="360"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="321" height="360" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="732" y="113" width="321" height="360"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="321" height="360" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="How-do-coaches-provide-feedback?" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1125" height="533"></rect>
+        <g id="Group" transform="translate(114.000000, 136.000000)">
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+            <text id="in-between-drills" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="32.69" y="27">in between drills</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(134.000000, 206.000000)">
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+            <text id="not-pointing-foot-in" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="11.298" y="22">not pointing foot in the </tspan>
+                <tspan x="40.089" y="41">right direction</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="70.5" width="166" height="49"></rect>
+            <text id="not-landing-on-leadi" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="38.367" y="90">not landing on </tspan>
+                <tspan x="46.543" y="109">leading feet</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="140.5" width="166" height="49"></rect>
+            <text id="doing-wrong-steps--" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="21.525" y="161">doing wrong steps - </tspan>
+                <tspan x="38.01" y="180">not alternating</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(464.000000, 136.000000)">
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+            <text id="in-between-sets" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="35.133" y="27">in between sets</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(794.000000, 136.000000)">
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+            <text id="after-session" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="45.248" y="27">after session</tspan>
+            </text>
+        </g>
+        <polyline id="Path-2" stroke="#979797" fill-rule="nonzero" points="114.932112 160 68 160 68 228 135 228"></polyline>
+        <polyline id="Path-3" stroke="#979797" fill-rule="nonzero" points="68 227 68 300.319757 68 373 134 373"></polyline>
+        <path d="M68.5,299.5 L134.5,299.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+        <polyline id="Path-2" stroke="#979797" fill-rule="nonzero" points="464.932112 160 418 160 418 228 485 228"></polyline>
+        <polyline id="Path-3" stroke="#979797" fill-rule="nonzero" points="418 227 418 300.319757 418 373 484 373"></polyline>
+        <path d="M418.5,299.5 L484.5,299.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="5" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-4)" stroke-width="2" stroke-dasharray="5" fill-rule="nonzero" xlink:href="#path-3"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-6)" stroke-width="2" stroke-dasharray="5" fill-rule="nonzero" xlink:href="#path-5"></use>
+        <text id="not-able-to-do-these" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="42.144" y="460">not able to do these can lead to severe injuries</tspan>
+        </text>
+        <g id="Group" transform="translate(485.000000, 206.000000)">
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+            <text id="taking-too-many-step" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="15.036" y="26">taking too many steps</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="70.5" width="166" height="49"></rect>
+            <text id="less-distance-betwee" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="44.464" y="91">less distance </tspan>
+                <tspan x="42" y="110">between legs</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="140.5" width="166" height="49"></rect>
+            <text id="not-stopping-at-the" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="43.827" y="159">not stopping </tspan>
+                <tspan x="42.273" y="178">at the middle</tspan>
+            </text>
+        </g>
+        <polyline id="Path-2" stroke="#979797" fill-rule="nonzero" points="794.932112 160 748 160 748 228 815 228"></polyline>
+        <polyline id="Path-3" stroke="#979797" fill-rule="nonzero" points="748 227 748 300 748 299.681638"></polyline>
+        <path d="M748.5,299.5 L814.5,299.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+        <g id="Group" transform="translate(815.000000, 206.000000)">
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="166" height="49"></rect>
+            <text id="speed" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="64.68" y="26">speed</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="70.5" width="166" height="49"></rect>
+            <text id="debriefing-like-goal" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="39.165" y="90">debriefing like </tspan>
+                <tspan x="46.942" y="109">goal setting</tspan>
+            </text>
+        </g>
+        <text id="These-things-aren’t" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="412.946" y="448">These things aren’t as important to make </tspan>
+            <tspan x="421.934" y="467">the person stop their drills in between</tspan>
+        </text>
+        <text id="Like-a-reinforcement" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="766.014" y="458">Like a reinforcement. Least important issues</tspan>
+        </text>
+        <rect id="Rectangle-3" stroke="#979797" fill-rule="nonzero" x="8.5" y="76.5" width="1068" height="429"></rect>
+        <text id="Footwork-parameters" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="329.158" y="62">Footwork parameters v Feedback Interruption Point</tspan>
+        </text>
+    </g>
+</svg>

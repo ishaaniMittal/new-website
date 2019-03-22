@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="473px" height="147px" viewBox="0 0 473 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Length</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Length" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="473" height="147"></rect>
+        <g id="Group" transform="translate(24.000000, 12.000000)">
+            <g id="Group-5">
+                <g id="Group-4">
+                    <text id="Step-1" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="3.999" y="18">Step 1</tspan>
+                    </text>
+                    <path d="M28.5,30.5 L3.5,68.5" id="Line-9" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M28.5,30.5 L53.5,69" id="Line-9" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M3.5,69 L54,69.5" id="Line-10" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+                    <text id="B1" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="0.884" y="87">B1</tspan>
+                    </text>
+                    <text id="A1" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="42.548" y="87">A1</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(151.000000, 0.000000)">
+                    <text id="Step-2" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="12.999" y="18">Step 2</tspan>
+                    </text>
+                    <path d="M36.5,30.5 L8,69.25" id="Line-9" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M36.5,30.5 L65,69" id="Line-9" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M8,70 L65.5,69" id="Line-10" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+                    <text id="B2" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="0.884" y="87">B2</tspan>
+                    </text>
+                    <text id="A2" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="61.048" y="86">A2</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(320.000000, 0.000000)">
+                    <text id="Final-Step" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                        <tspan x="7.004" y="18">Final Step</tspan>
+                    </text>
+                    <path d="M45.5,30.5 L7,69" id="Line-9" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M47.5,30.5 L93.5,69" id="Line-9" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                    <path d="M9.5,69.5 L91.5,69" id="Line-10" stroke="#979797" stroke-linecap="square" stroke-dasharray="2" fill-rule="nonzero"></path>
+                    <text id="B3" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="0.384" y="85">B3</tspan>
+                    </text>
+                    <text id="A3" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+                        <tspan x="91.048" y="85">A3</tspan>
+                    </text>
+                    <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="46.5" cy="30.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+        <text id="B1A1-&lt;-=-B2A2-&lt;-B3A3" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="172.468" y="138">B1A1 &lt; = B2A2 &lt; B3A3</tspan>
+        </text>
+    </g>
+</svg>

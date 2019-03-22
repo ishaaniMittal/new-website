@@ -1,54 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1440px" height="310px" viewBox="0 0 1440 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+<svg width="1440px" height="379px" viewBox="0 0 1440 379" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>evaluation feedback</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="evaluation-feedback" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle-39" fill-opacity="0.3" fill="#D8D8D8" fill-rule="nonzero" opacity="0.7" x="0" y="-44" width="1440" height="440"></rect>
         <text id="1" font-family="Avenir-Heavy, Avenir" font-size="40" font-weight="600" fill="#000000">
-            <tspan x="166" y="65">1</tspan>
+            <tspan x="177" y="65">1</tspan>
         </text>
         <text id="2" font-family="Avenir-Heavy, Avenir" font-size="40" font-weight="600" fill="#000000">
-            <tspan x="666" y="65">2</tspan>
+            <tspan x="677" y="65">2</tspan>
         </text>
         <text id="3" font-family="Avenir-Heavy, Avenir" font-size="40" font-weight="600" fill="#000000">
-            <tspan x="1197" y="65">3</tspan>
+            <tspan x="1208" y="65">3</tspan>
         </text>
-        <g id="Group-6" transform="translate(36.000000, 103.000000)" fill="#000000">
+        <g id="Group-6" transform="translate(36.000000, 99.000000)" fill="#000000">
             <g id="Group-5" transform="translate(995.000000, 0.000000)">
-                <text id="Users-don’t-read-ins" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
-                    <tspan x="24.194" y="67">Users don’t read instructions, especially if they are </tspan>
-                    <tspan x="46.986" y="86">presented in large chunks and paragraphs.</tspan>
+                <text id="Users-don’t-read-ins" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal">
+                    <tspan x="4.27" y="71">Users don’t read instructions, especially </tspan>
+                    <tspan x="18.69" y="98">if they are presented in large chunks </tspan>
+                    <tspan x="107.22" y="125">and paragraphs.</tspan>
                 </text>
-                <text id="Digestable-Informati" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600">
-                    <tspan x="76" y="20">Digestable Information</tspan>
+                <text id="Digestable-Informati" font-family="Avenir-Heavy, Avenir" font-size="24" font-weight="600">
+                    <tspan x="76" y="24">Digestable Information</tspan>
                 </text>
             </g>
             <g id="Group-2">
                 <g id="Group">
-                    <text id="Users-appreciated-th" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
-                        <tspan x="7.003" y="67">Users appreciated the indication of the time </tspan>
-                        <tspan x="5.96" y="86">required to play each game at the start. This </tspan>
-                        <tspan x="26.687" y="105">prepared them for what was to come.</tspan>
+                    <text id="Users-appreciated-th" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal">
+                        <tspan x="46.23" y="71">Users appreciated the </tspan>
+                        <tspan x="8.48" y="98">indication of the time required </tspan>
+                        <tspan x="7.9" y="125">to play each game at the start. </tspan>
+                        <tspan x="17.54" y="152">This prepared them for what </tspan>
+                        <tspan x="84.91" y="179">was to come.</tspan>
                     </text>
-                    <text id="Time-Indicator" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600">
-                        <tspan x="75" y="20">Time Indicator</tspan>
+                    <text id="Time-Indicator" font-family="Avenir-Heavy, Avenir" font-size="24" font-weight="600">
+                        <tspan x="75" y="24">Time Indicator</tspan>
                     </text>
                 </g>
             </g>
-            <g id="Group-4" transform="translate(486.500000, 0.000000)">
+            <g id="Group-4" transform="translate(429.500000, 0.000000)">
                 <g id="Group-3">
-                    <text id="Conversation-Starter" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600">
-                        <tspan x="57" y="20">Conversation Starter</tspan>
+                    <text id="Conversation-Starter" font-family="Avenir-Heavy, Avenir" font-size="24" font-weight="600">
+                        <tspan x="114" y="24">Conversation Starter</tspan>
                     </text>
-                    <text id="Conversations-that-w" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal">
-                        <tspan x="10.744" y="67">Conversations that were intentionally negative </tspan>
-                        <tspan x="14.755" y="86">got two distinct responses from users: one of </tspan>
-                        <tspan x="1.658" y="105">rage, and the other of disbelief. Regardless, both </tspan>
-                        <tspan x="3.079" y="124">of them started passionate conversations around </tspan>
-                        <tspan x="14.608" y="143">the topic, which was the main purpose of the </tspan>
-                        <tspan x="128.561" y="162">product.</tspan>
+                    <text id="Conversations-that-w" font-family="Avenir-Book, Avenir" font-size="20" font-weight="normal">
+                        <tspan x="17.42" y="71">Conversations that were intentionally negative </tspan>
+                        <tspan x="23.15" y="98">got two distinct responses from users: one of </tspan>
+                        <tspan x="4.44" y="125">rage, and the other of disbelief. Regardless, both </tspan>
+                        <tspan x="6.47" y="152">of them started passionate conversations around </tspan>
+                        <tspan x="22.94" y="179">the topic, which was the main purpose of the </tspan>
+                        <tspan x="185.73" y="206">product.</tspan>
                     </text>
                 </g>
             </g>

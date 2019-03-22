@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1558px" height="1141px" viewBox="0 0 1558 1141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Changes over Time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="62.2598782%" fx="50%" fy="62.2598782%" r="47.3280915%" gradientTransform="translate(0.500000,0.622599),scale(1.000000,0.797415),rotate(90.000000),scale(1.000000,3.095895),translate(-0.500000,-0.622599)" id="radialGradient-1">
+            <stop stop-color="#9D1B1B" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#9D1B1B" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="62.2598782%" fx="50%" fy="62.2598782%" r="47.3280915%" gradientTransform="translate(0.500000,0.622599),scale(1.000000,0.797415),rotate(90.000000),scale(1.000000,3.095895),translate(-0.500000,-0.622599)" id="radialGradient-2">
+            <stop stop-color="#9D1B1B" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#9D1B1B" stop-opacity="0.6" offset="98.2726698%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="62.2598782%" fx="50%" fy="62.2598782%" r="115.563212%" gradientTransform="translate(0.500000,0.622599),scale(1.000000,0.797415),rotate(90.000000),scale(1.000000,3.095895),translate(-0.500000,-0.622599)" id="radialGradient-3">
+            <stop stop-color="#9D1B1B" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#9D1B1B" stop-opacity="0.5" offset="95.5631322%"></stop>
+            <stop stop-color="#9D1B1B" stop-opacity="0.8" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="24.9383916%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.797415),rotate(90.000000),scale(1.000000,3.095895),translate(-0.500000,-0.500000)" id="radialGradient-4">
+            <stop stop-color="#1B3D9D" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#DACCCC" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="36.8044079%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.797415),rotate(90.000000),scale(1.000000,3.095895),translate(-0.500000,-0.500000)" id="radialGradient-5">
+            <stop stop-color="#1B3D9D" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#DACCCC" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="62.7026217%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.797415),rotate(90.000000),scale(1.000000,3.095895),translate(-0.500000,-0.500000)" id="radialGradient-6">
+            <stop stop-color="#1B3D9D" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#DACCCC" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Changes-over-Time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1558" height="1141"></rect>
+        <g id="Group-2">
+            <rect id="Rectangle-5" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="1556" height="76"></rect>
+            <g id="Group" transform="translate(0.000000, 77.000000)">
+                <rect id="Rectangle-3" stroke="#979797" fill="url(#radialGradient-1)" fill-rule="nonzero" x="508.5" y="327.041818" width="104" height="130.675506"></rect>
+                <rect id="Rectangle-3" stroke="#979797" fill="url(#radialGradient-2)" fill-rule="nonzero" x="918.5" y="327.041818" width="104" height="130.675506"></rect>
+                <rect id="Rectangle-3" stroke="#979797" fill="url(#radialGradient-3)" fill-rule="nonzero" x="1308.5" y="327.041818" width="104" height="130.675506"></rect>
+                <rect id="Rectangle-3" stroke="#979797" fill="url(#radialGradient-4)" fill-rule="nonzero" x="508.5" y="592.041818" width="104" height="130.675506"></rect>
+                <rect id="Rectangle-3" stroke="#979797" fill="url(#radialGradient-5)" fill-rule="nonzero" x="918.5" y="592.041818" width="104" height="130.675506"></rect>
+                <rect id="Rectangle-3" stroke="#979797" fill="url(#radialGradient-6)" fill-rule="nonzero" x="1308.5" y="592.041818" width="104" height="130.675506"></rect>
+                <g id="Court" transform="translate(508.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Court" transform="translate(918.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Court" transform="translate(1308.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <path d="M1345.5,133.5 L1371.5,133.5" id="Line-14" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M1371.5,125.5 L1389.5,70.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M1376.5,97.5 L1383.5,99.5" id="Line-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                <rect id="Rectangle-2" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="1557" height="265"></rect>
+            </g>
+            <path d="M955.5,211.5 L981.5,211.5" id="Line-14" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M981.5,203.5 L999.5,148.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M984.5,181.5 L991.5,183.5" id="Line-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M990.5,165.5 L997.5,167.5" id="Line-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <g id="Group" transform="translate(0.000000, 342.000000)">
+                <g id="Court" transform="translate(508.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Court" transform="translate(918.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Court" transform="translate(1308.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Rectangle-2" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="1557" height="265"></rect>
+            </g>
+            <g id="Group" transform="translate(0.000000, 608.000000)">
+                <g id="Court" transform="translate(508.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Court" transform="translate(918.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Court" transform="translate(1308.000000, 50.000000)">
+                    <g id="Group">
+                        <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                            <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                            <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                            <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                            <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                            <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                        </g>
+                        <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                            <tspan x="41.775" y="10">NET</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="Rectangle-2" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="1557" height="265"></rect>
+            </g>
+            <g id="Court" transform="translate(448.000000, 924.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Court" transform="translate(608.000000, 924.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Court" transform="translate(841.000000, 924.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Court" transform="translate(1001.000000, 924.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Court" transform="translate(1231.000000, 924.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Court" transform="translate(1391.000000, 924.000000)">
+                <g id="Group">
+                    <g id="Court" transform="translate(0.000000, 13.000000)" fill-rule="nonzero" stroke="#979797">
+                        <rect id="Rectangle" x="0.5" y="0.5" width="104" height="129"></rect>
+                        <rect id="Rectangle-2" x="0.5" y="0.5" width="104" height="37"></rect>
+                        <rect id="Rectangle-3" x="0.5" y="111.5" width="104" height="18"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-4" x="87.5" y="0.5" width="17" height="129"></rect>
+                        <rect id="Rectangle-5" x="0.5" y="37.5" width="51" height="92"></rect>
+                    </g>
+                    <text id="NET" font-family="Avenir-Book, Avenir" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="41.775" y="10">NET</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle-2" stroke="#979797" fill-rule="nonzero" x="0.5" y="874.5" width="1557" height="265"></rect>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="0.5" y="0.5" width="388" height="1139"></rect>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="389.5" y="0.5" width="388" height="1139"></rect>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="778.5" y="0.5" width="388" height="1139"></rect>
+            <rect id="Rectangle" stroke="#979797" fill-rule="nonzero" x="1168.5" y="0.5" width="388" height="1139"></rect>
+            <text id="T1" font-family="Avenir-Heavy, Avenir" font-size="24" font-weight="600" fill="#000000">
+                <tspan x="570.008" y="46">T1</tspan>
+            </text>
+            <text id="T2" font-family="Avenir-Heavy, Avenir" font-size="24" font-weight="600" fill="#000000">
+                <tspan x="950.008" y="46">T2</tspan>
+            </text>
+            <text id="T3" font-family="Avenir-Heavy, Avenir" font-size="24" font-weight="600" fill="#000000">
+                <tspan x="1350.008" y="46">T3</tspan>
+            </text>
+            <text id="Steps-to-reach-over" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="117.832" y="187">Steps to reach </tspan>
+                <tspan x="74.284" y="220">over time must reduce</tspan>
+            </text>
+            <text id="Should-be-in-motion" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="85.6" y="457">Should be in motion </tspan>
+                <tspan x="88.312" y="490">for most of the time</tspan>
+            </text>
+            <text id="Cover-more-distance" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="83.38" y="726">Cover more distance </tspan>
+                <tspan x="105.616" y="759">in the same time</tspan>
+            </text>
+            <text id="Time-to-complete-sho" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="60.364" y="996">Time to complete should</tspan>
+                <tspan x="90.028" y="1029">remain same across</tspan>
+                <tspan x="150.712" y="1062">sessions</tspan>
+            </text>
+            <path d="M547.5,210.5 L573.5,210.5" id="Line-14" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M573.5,202.5 L591.5,147.5" id="Line" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M574.5,189.5 L581.5,191.5" id="Line-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M578.5,177.5 L585.5,179.5" id="Line-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M582.5,164.5 L589.5,166.5" id="Line-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            <text id="The-higher-the-opaci" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="99.16" y="531">The higher the opacity, </tspan>
+                <tspan x="66.841" y="556">the more time spend in motion </tspan>
+                <tspan x="82.186" y="581">which means that with time</tspan>
+            </text>
+            <text id="Figure-depicts--&gt;-di" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="51.838" y="801">Figure depicts -&gt; distance covered </tspan>
+                <tspan x="50.713" y="826">is directly proportional to blue area</tspan>
+            </text>
+            <text id="S1-&gt;&gt;-S2" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="545.492" y="1104">S1 &gt;&gt; S2</tspan>
+            </text>
+            <text id="S1-&gt;-S2" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="943.486" y="1104">S1 &gt; S2</tspan>
+            </text>
+            <text id="S1-almost-equal-S2" font-family="Avenir-Book, Avenir" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="1287.982" y="1104">S1 almost equal S2</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 874.000000)"></g>
+        </g>
+    </g>
+</svg>
